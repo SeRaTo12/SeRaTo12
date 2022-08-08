@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeRaTo12
-- 👀 I’m interested in learn about programming, relationship with creation or videogames, cyber-security and design & creation of web sytes
-- 🌱 I’m currently learning to programming in c, html 5, css 3 and JavaScrypt. I´m Studyng Information Technology Engineering 
-- 💞️ I’m looking to collaborate on proyects of web sytes and another proyects.
+- 👀 I’m interested in learn about...
+- 🌱 I’m currently learning...
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me. You can find me in:
 - Facebook: Sebastián Torres
 - Linkedin: Sebastián Rodríguez
